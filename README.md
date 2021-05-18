@@ -7,4 +7,4 @@ Solving algorithm problems width Java
 - [divide and conquer](#Divide-and-Conquer)
 - [greedy](#Greedy)
 - [sort](#Sort)
-- [stra](#Strassen)
+- [straseen](#Strassen)
